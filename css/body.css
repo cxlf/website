@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: #eee;
+  color: #b2b2b2;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 3.125em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "tenso", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+  font-family: "tenso", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
